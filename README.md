@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api?username=UsmonHamidulloh&count_private=true&show_icons=true&theme=react)q
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmonHamidulloh&show_icons=true&theme=react)
