@@ -1,1 +1,5 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmonHamidulloh&show_icons=true&theme=react)
+## Social Media 
+
+- [Twitter](https://twitter.com/UHamidulloh)
+- [YouTube](https://www.youtube.com/channel/UC_m80Qvhe4kqnxBoztwsMQQ)
+- [Telegram](https://t.me/Usmon_H)
