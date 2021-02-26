@@ -1,4 +1,4 @@
-## Assalamu alaykum 
+## Hello, welcome to my page! 
 
 I'm Usman and I'm currently learning android programming
 
