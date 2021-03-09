@@ -2,7 +2,7 @@
 
 I'm Usman and I'm currently learning android programming
 
-## Follow me :
+## Contact :
 
 <a href="https://t.me/usmon_h" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://www.instagram.com/usmon.hamidulloh" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
