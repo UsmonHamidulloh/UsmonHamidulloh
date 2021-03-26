@@ -16,7 +16,7 @@ I'm Usman and I'm currently learning android programming
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt="FireBase"></a>
 
-## Contact :
+## Social media :
 
 <a href="https://t.me/u_hamidulloh" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://www.instagram.com/usmon.hamidulloh" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
