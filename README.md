@@ -16,6 +16,8 @@ I'm Usman and I'm currently learning android programming
 <a href="https://www.http://facebook.com/usmon.hamidulloh" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.twitter.com/UHamidulloh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 
-## My GitHub stats 
+## 
 
 ![](https://github-readme-stats.vercel.app/api?username=UsmonHamidulloh&count_private=true&show_icons=true&theme=react)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=UsmonHamidulloh&theme=react)
