@@ -19,5 +19,3 @@ I'm Usman and I'm currently learning android programming
 ## 
 
 ![](https://github-readme-stats.vercel.app/api?username=UsmonHamidulloh&count_private=true&show_icons=true&theme=react)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=UsmonHamidulloh&theme=react)
