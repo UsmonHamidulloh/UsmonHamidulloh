@@ -6,6 +6,7 @@ I'm Usman and I'm currently learning android programming
 
 - [Linux](https://linux.com/)
 - [Android](https://android.com/)
+- [Windows](https://www.microsoft.com/en-us/windows)
 - [UbuntuOS](https://ubuntu.com/) 
 
 ## Social media :
@@ -13,6 +14,7 @@ I'm Usman and I'm currently learning android programming
 - [Twitter](https://twitter.com/UHamidulloh)
 - [Telegram](https://telegram.com/u_hamidulloh)
 - [Facebook](https://facebook.com/usmon.hamidulloh)
+- [LinkedIn](https://www.linkedin.com/in/usman-hamidulloh)
 - [Instagram](https://instagram.com/usmon.hamidulloh)
 
 ## 
