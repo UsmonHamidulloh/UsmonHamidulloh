@@ -12,9 +12,9 @@ I'm Usman and I'm currently learning android programming
 ## Social media :
 
 - [Twitter](https://twitter.com/UHamidulloh)
+- [LinkedIn](https://www.linkedin.com/in/usman-hamidulloh)
 - [Telegram](https://telegram.com/u_hamidulloh)
 - [Facebook](https://facebook.com/usmon.hamidulloh)
-- [LinkedIn](https://www.linkedin.com/in/usman-hamidulloh)
 - [Instagram](https://instagram.com/usmon.hamidulloh)
 
 ## 
